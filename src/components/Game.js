@@ -78,7 +78,7 @@ function Game() {
       } else {
         setTimeout(() => {
           setFlippedCards([]);
-        }, 500);
+        }, 1000);
       }
     }
 
